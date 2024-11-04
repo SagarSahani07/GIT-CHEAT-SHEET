@@ -10,4 +10,4 @@ Merging and Rebasing: Steps for merging and rebasing branches.
 Remote Repositories: Handling remote repositories like GitHub.
 Stashing: Saving and applying uncommitted changes.
 Undoing Changes: Commands to revert or reset changes.
-Additional Tips: Helpful shortcuts and advanced commands
+Additional Tips: Helpful shortcuts and advanced commands .
